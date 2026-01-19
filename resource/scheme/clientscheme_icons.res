@@ -58,7 +58,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"Symbols 64"
+		"Symbols64"
 		{
 			"1"
 			{
