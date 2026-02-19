@@ -26,7 +26,7 @@
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"117 107 94 255"
 	}
-
+	
 	"AvatarImage"
 	{
 		"ControlName"	"CAvatarImagePanel"

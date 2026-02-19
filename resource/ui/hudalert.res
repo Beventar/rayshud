@@ -45,7 +45,7 @@
 		"fgcolor_override"	"TanLight"
 		"textinsetx"		"5"
 	}
-
+	
 	"AlertImage"
 	{
 		"ControlName"	"CTFImagePanel"

@@ -58,7 +58,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"Symbols64"
 		{
 			"1"

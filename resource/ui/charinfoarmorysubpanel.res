@@ -173,6 +173,7 @@
 			"Scrollbar"
 			{
 				"wide"			"11"
+				"PaintBackgroundType"	"2"
 			}
 		}
 	}

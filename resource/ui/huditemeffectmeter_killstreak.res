@@ -4,12 +4,33 @@
 {
 	"HudItemEffectMeter"
 	{
-		"xpos"				"c115"
-		"xpos_minmode"		"c65"
+		"xpos"					"-235"
+		"ypos"					"-25"
+		"wide"					"f0"
+		"tall"					"f0"
 	}
 	
 	"ItemEffectMeterLabel"
 	{
-		"labelText"			"#TF_KillStreak"
+		"wide"					"0"
+		"tall"					"0"
+		"visible"				"0"
+		"enabled"				"0"
+		"labelText"				"#TF_KillStreak"
+	}
+
+	"ItemEffectMeterCount"
+	{
+		"xpos"					"c-46"
+		"ypos"					"c150"
+		"textAlignment"			"east"
+	}
+	
+	"ItemEffectMeterCountShadow"
+	{
+		"xpos"					"-1"
+		"ypos"					"-1"
+		"zpos"					"0"
+		"textAlignment"			"east"
 	}
 }
